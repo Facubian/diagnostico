@@ -1,0 +1,15 @@
+*{
+    font-size: 20px;
+}
+.card-title{
+    font-style: italic;
+    font-size: 1.5rem;
+}
+.card-body{
+    background-color: #d6d3c0;
+}
+.info{
+    color: brown;
+
+    font-weight: 500;
+}
